@@ -12,7 +12,6 @@
 
 [**下载最新版本 →**](https://github.com/syk-kk/zhencang-releases/releases/latest)
 
-- 当前版本：**3.0.2**
 - 系统要求：Windows 10/11 x64
 - 覆盖安装会保留安装目录下的 `data/`
 
